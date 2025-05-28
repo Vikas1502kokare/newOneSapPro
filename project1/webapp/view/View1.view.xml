@@ -1,7 +1,7 @@
-git remote add origin https://github.com/Vikas1502kokare/newOneSapPro.git<mvc:View controllerName="com.project1.project1.controller.View1"
+<mvc:View controllerName="com.project1.project1.controller.View1"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
-    <Text text="raj"/>
+    <Button text="click" press="oclick"/>
     </Page>
 </mvc:View>
