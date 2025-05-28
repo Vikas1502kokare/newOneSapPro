@@ -5,6 +5,9 @@ sap.ui.define([
 
     return Controller.extend("com.project1.project1.controller.View1", {
         onInit() {
+        },
+        onclick:function(){
+            
         }
     });
 });
