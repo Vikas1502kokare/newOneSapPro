@@ -2,5 +2,6 @@ git remote add origin https://github.com/Vikas1502kokare/newOneSapPro.git<mvc:Vi
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
+    <Text text="raj"/>
     </Page>
 </mvc:View>
