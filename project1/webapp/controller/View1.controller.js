@@ -8,6 +8,6 @@ sap.ui.define([
         },
         onclick:function(){
             
-        }
+        },
     });
 });
